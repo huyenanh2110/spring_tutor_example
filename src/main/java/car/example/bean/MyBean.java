@@ -8,7 +8,7 @@ public class MyBean {
     }
 
     public void showMessage() {
-        System.out.println("Message" + message);
+        System.out.println("Message: " + message);
     }
 
     @Override
